@@ -4,7 +4,7 @@ Welcome to my personal portfolio! This GitHub page showcases my skills, projects
 
 ## 📋 Table of Contents
 - [About me](#about)
-- [About my work](#About my work)
+- [About my work](#work)
 - [Contact](#contact)
 
 Visit my portfolio at: [https://ildebrandosimeoni.github.io/](https://ildebrandosimeoni.github.io/)
